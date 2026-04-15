@@ -2,17 +2,17 @@
 
 # Olá, eu sou Henderson
 
-🎓 Estudante de Ciência da Computação  
-💻 Aprendendo Java, POO e desenvolvimento de software
+Sou estudante de Ciência da Computação.
 
+Atualmente estudo C# e .NET, praticando orientação a objetos, refatoração e fundamentos de desenvolvimento back-end por meio de exercícios e projetos de estudo.
 
----
+## Tecnologias e temas de estudo
 
-## Tecnologias que estou estudando
-
-- Java
-- SQL / MySQL
-- Maven
-- Orientação a Objetos
+- C#
+- .NET
+- SQL
 - Git e GitHub
+- Java
 - Spring Boot
+- Orientação a Objetos
+- Refatoração
