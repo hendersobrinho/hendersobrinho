@@ -5,7 +5,7 @@
 <h1 align="center">Henderson Sobrinho</h1>
 
 <p align="center">
-  Ciencia da Computacao · C#/.NET · APIs · SQL · Angular
+  Ciência da Computação · C#/.NET · APIs · SQL · Angular
 </p>
 
 ```txt
@@ -16,7 +16,7 @@ fazendo     MuseuDeBugs
 ideia       aprender fazendo, errando, arrumando e entendendo o porquê
 ```
 
-Sou estudante de Ciencia da Computacao e estou montando minha base em programacao na pratica.
+Sou estudante de Ciência da Computação e estou montando minha base em programação na prática.
 
 No momento tenho mexido mais com C#, .NET, APIs, banco de dados e Angular. Uso os projetos daqui para testar o que estou aprendendo, quebrar algumas coisas, entender o motivo e ir melhorando sem pular etapa.
 
@@ -68,15 +68,15 @@ No momento tenho mexido mais com C#, .NET, APIs, banco de dados e Angular. Uso o
   </tr>
 </table>
 
-## GitHub em Numeros
+## GitHub em Números
 
 <p align="center">
-  <img width="49%" alt="Estatisticas do GitHub" src="https://github-readme-stats.vercel.app/api?username=hendersobrinho&show_icons=true&hide_border=true&bg_color=101722&title_color=7ddc9a&text_color=a9b4c2&icon_color=f0b86e&rank_icon=github">
+  <img width="49%" alt="Estatísticas do GitHub" src="https://github-readme-stats.vercel.app/api?username=hendersobrinho&show_icons=true&hide_border=true&bg_color=101722&title_color=7ddc9a&text_color=a9b4c2&icon_color=f0b86e&rank_icon=github">
   <img width="49%" alt="Linguagens mais usadas" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hendersobrinho&layout=compact&hide_border=true&bg_color=101722&title_color=7ddc9a&text_color=a9b4c2">
 </p>
 
 <p align="center">
-  <img width="98%" alt="Grafico de contribuicao" src="https://github-readme-activity-graph.vercel.app/graph?username=hendersobrinho&hide_border=true&bg_color=101722&color=a9b4c2&line=7ddc9a&point=f0b86e&area=true&area_color=7ddc9a&custom_title=Contribuicoes">
+  <img width="98%" alt="Gráfico de contribuição" src="https://github-readme-activity-graph.vercel.app/graph?username=hendersobrinho&hide_border=true&bg_color=101722&color=a9b4c2&line=7ddc9a&point=f0b86e&area=true&area_color=7ddc9a&custom_title=Contribuições">
 </p>
 
 ## Nota
