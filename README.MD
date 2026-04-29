@@ -2,7 +2,7 @@
   <img src="Banner.png" alt="Banner do perfil" width="100%">
 </p>
 
-<h1 align="center">Henderson Sobrinho</h1>
+<h1 align="center">Henderson Pereira</h1>
 
 <p align="center">
   Ciência da Computação · C#/.NET · APIs · SQL · Angular
