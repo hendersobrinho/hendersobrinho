@@ -4,9 +4,9 @@
 
 Estudante de Ciência da Computação, construindo uma base sólida em desenvolvimento back-end, APIs e boas práticas de código.
 
-Atualmente estou estudando C#, .NET, SQL e fundamentos de arquitetura através de projetos práticos. Meu foco agora é evoluir com calma, entendendo bem cada camada do que estou construindo.
+Atualmente estou estudando C#, .NET, SQL e fundamentos de arquitetura através de projetos práticos. A ideia é evoluir com calma, entendendo bem cada camada do que estou construindo.
 
-## Foco Atual
+## Estudando Agora
 
 - Desenvolvimento back-end com C# e ASP.NET Core
 - APIs REST, autenticação e integração com front-end
